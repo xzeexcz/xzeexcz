@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on "Bitlab Academy" as a trainee<br>👯 I’m looking to collaborate on developing micro-services, big data, web sites, MVN projects<br>🤝 I’m looking for help with Ruby, Go, PHP/LARAVEL<br>🌱 I’m currently learning DEEP JAVA, React, JS<br>💬 Ask me about Spring, Spring Boot, JAVA SE, EE, C++, Assembly, Servlets, Controllers, JSP, Linux/Windows, REACT, JS<br>⚡ Fun fact i'm 19
+🔭 I’m currently working on nowhere lmao<br>👯 I’m looking to collaborate on developing micro-services, big data, web sites, MVN projects<br>🌱 I’m currently learning Nginx, Kafka, K8s, RabbitMQ<br>💬 Ask me about Spring, Spring Boot, JAVA SE, EE, C++, Assembly<br>⚡ Fun fact i'm 19
 
 
 ## 🌐 Socials:
